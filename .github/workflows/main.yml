@@ -1,4 +1,4 @@
-name: FifthOfMe
+name: Firky
 
 on: 
   workflow_dispatch:
